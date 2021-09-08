@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Octavian Yudha Mahendra</h1>
-<!-- <h3 align="center">I'm an Android UI designer and frontend developer.</h3> -->
-<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a240b1e115096a767f741a9a8d440cacbaaa47aa3318ebd83d1f85707723db6c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d536f6674776172652b456e67696e6565723b5765622b446576656c6f7065723b47616d652b446576656c6f706572"><img src="https://camo.githubusercontent.com/a240b1e115096a767f741a9a8d440cacbaaa47aa3318ebd83d1f85707723db6c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d536f6674776172652b456e67696e6565723b5765622b446576656c6f7065723b47616d652b446576656c6f706572" alt="" data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=UI+Designer;Fronted+Developer" style="max-width: 100%;"></a></p>
+<h3 align="center">I'm an Android UI designer and frontend developer.</h3>
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a240b1e115096a767f741a9a8d440cacbaaa47aa3318ebd83d1f85707723db6c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d536f6674776172652b456e67696e6565723b5765622b446576656c6f7065723b47616d652b446576656c6f706572"><img src="https://camo.githubusercontent.com/a240b1e115096a767f741a9a8d440cacbaaa47aa3318ebd83d1f85707723db6c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d536f6674776172652b456e67696e6565723b5765622b446576656c6f7065723b47616d652b446576656c6f706572" alt="" data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=UI+Designer;Fronted+Developer" style="max-width: 100%;"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrayudha&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrayudha" /> </p>
 
