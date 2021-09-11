@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahendrayudha24" target="blank"><img src="https://img.shields.io/twitter/follow/mahendrayudha24?logo=twitter&style=for-the-badge" alt="mahendrayudha24" /></a> </p>
 
-- 👨‍💻 I’m currently learning **ReactJS**
+- 👨‍💻 I’m currently learning **Laravel** and **ReactJS**
 
 - 🌐 All of my projects are available at [https://bit.ly/MahendraYudha](https://bit.ly/MahendraYudha)
 
