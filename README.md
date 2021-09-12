@@ -22,12 +22,8 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahendrayudha)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendrayudha&show_icons=true&locale=en&layout=compact" alt="mahendrayudha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahendrayudha&show_icons=true&locale=en" alt="mahendrayudha" /></p>
-
-![GitHub metrics](https://metrics.lecoq.io/mahendrayudha)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahendrayudha)  
