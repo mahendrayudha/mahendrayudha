@@ -14,7 +14,7 @@
 - 🌍  I'm based in East Java, Indonesia
 - 👨‍💻  I’m currently learning **NextJS** and **ReactJS**
 - ✉️  You can contact me at [yudhaoctavian01@gmail.com](mailto:yudhaoctavian01@gmail.com)
-- 🌐  All of my projects are available at [https://bit.ly/MahendraYudha](https://bit.ly/MahendraYudha)
+- 🌐  All of my projects are available at [https://bit.ly/OctavianYudha](https://bit.ly/OctavianYudha)
 
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
