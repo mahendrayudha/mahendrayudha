@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Octavian Yudhaa Mahendra</h1>
+<h1 align="center">Hi 👋, I'm Octavian Yudha Mahendra</h1>
 <h3 align="center">I'm an UI Designer and Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrayudha&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrayudha" /> </p>
