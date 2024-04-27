@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrayudha&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrayudha" /> </p>
 
 <a href="https://www.twitter.com/mahendrayudha24" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/mahendrayudha24?logo=twitter&style=for-the-badge&color=10b981&labelColor=1c1917"/>
+  <img src="https://img.shields.io/twitter/follow/mahendrayudha_?logo=instagram&style=for-the-badge&color=10b981&labelColor=1c1917"/>
 </a>
 <a href="https://www.github.com/mahendrayudha" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/mahendrayudha?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" />
